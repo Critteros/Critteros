@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Critteros.Critteros">
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Critteros.Critteros"> -->
+<img align="right" src="https://visitcount.itsvg.in/api?id=Critteros&label=Profile%20Views&color=12&icon=5&pretty=true">
 
 [![wakatime](https://wakatime.com/badge/user/9ee7764e-0bfd-49ec-8ea8-4b7c458ba670.svg)](https://wakatime.com/@9ee7764e-0bfd-49ec-8ea8-4b7c458ba670)
                 
@@ -38,6 +39,72 @@
 
 ## 👨‍💻 Featured Repositories
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <a href="https://github.com/Critteros/Hydra">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Hydra&theme=nightowl&show_owner=false" alt="Hydra">
+    </a>
+    <a href="https://github.com/Critteros/Engineering-Thesis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Engineering-Thesis&theme=nightowl&show_owner=false" alt="Engineering-Thesis">
+    </a>
+    <a href="https://github.com/Critteros/MC-Clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=MC-Clone&theme=nightowl&show_owner=false" alt="MC-Clone" />
+    </a>
+    <a href="https://github.com/Critteros/Particle-Simulator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Particle-Simulator&theme=nightowl&show_owner=false" alt="Particle-Simulator" />
+    </a>
+    <a href="https://github.com/Critteros/Hotel-Manager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Hotel-Manager&theme=nightowl&show_owner=false" alt="Hotel-Manager" />
+    </a>
+    <a href="https://github.com/Critteros/ddns-sync">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=ddns-sync&theme=nightowl&show_owner=false" alt="ddns-sync" />
+    </a>
+    <a href="https://github.com/Critteros/Digital-Cookbook">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Digital-Cookbook&theme=nightowl&show_owner=false" alt="Digital-Cookbook" />
+    </a>
+    <a href="https://github.com/Critteros/speedtest-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=speedtest-website&theme=nightowl&show_owner=false" alt="speedtest-website" />
+    </a>
+</div>
+
+## 🚧⏳ Work in progress projects
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <a href="https://github.com/Critteros/Drive">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Drive&theme=nightowl&show_owner=false" alt="Drive">
+    </a>
+    <a href="https://github.com/Critteros/Chat-UI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Chat-UI&theme=nightowl&show_owner=false" alt="Chat-UI">
+    </a>       
+</div>
+
+## 🏆🤝 Featured Collaboration Projects
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <a href="https://github.com/Critteros/ImageBrowser">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=ImageBrowser&theme=nightowl&show_owner=false" alt="ImageBrowser" />
+    </a>
+    <a href="https://github.com/Teamdur/DeviceManager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teamdur&repo=DeviceManager&theme=nightowl&show_owner=false" alt="DeviceManager" />
+    </a>
+    <a href="https://github.com/Mewelopers/barcode-mobile">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mewelopers&repo=barcode-mobile&theme=nightowl&show_owner=false" alt="barcode-mobile" />
+    </a>
+    <a href="https://github.com/Mewelopers/barcode-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mewelopers&repo=barcode-api&theme=nightowl&show_owner=false" alt="barcode-api" />
+    </a>
+    <a href="https://github.com/WFiIS-IS/PlannerMPI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WFiIS-IS&repo=PlannerMPI&theme=nightowl&show_owner=false" alt="PlannerMPI" />
+    </a>
+     <a href="https://github.com/WFiIS-IS/sem8-ao-document-recognition">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WFiIS-IS&repo=sem8-ao-document-recognition&theme=nightowl&show_owner=false" alt="sem8-ao-document-recognition" />
+    </a>
+    <a href="https://github.com/WFiIS-IS/Spring-OAuth2ResourceServerExample">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WFiIS-IS&repo=Spring-OAuth2ResourceServerExample&theme=nightowl&show_owner=false" alt="Spring-OAuth2ResourceServerExample" />
+    </a>
+    <a href="https://github.com/WFiIS-IS/Spring-OAuth2ClientExample">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WFiIS-IS&repo=Spring-OAuth2ClientExample&theme=nightowl&show_owner=false" alt="Spring-OAuth2ClientExample" />
+    </a>
+</div>
 
 ## ⚡ Stats
 
