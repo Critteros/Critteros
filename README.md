@@ -34,6 +34,38 @@ Here are some ideas to get you started:
     <p>📫 How to reach me: <a href="mailto: contact@critteros.dev">contact@critteros.dev</a></p>
 </div>
 
-<!-- ![Git](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react) -->
+## 💻 Use to Code
 
-<!-- I'm Szymon, fullstack web application developer from Poland -->
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&style=for-the-badge&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Sass](https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+# ⚡ Stats
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Critteros&theme=nightowl&hide_border=true" alt="Critteros's Streak">
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Critteros&theme=nightowl" alt="Critteros's GitHub Contribution">
+</p>
+
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Critteros&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="200px" alt="Critteros's Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Critteros&theme=nightowl&show_icons=true&hide_border=true&layout=compact" height="200px" alt="Critteros's Top Languages">
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Critteros&bg_color=011627&color=7edbc9&line=c792ea&point=ffea95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
