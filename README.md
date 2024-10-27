@@ -69,3 +69,7 @@ Here are some ideas to get you started:
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Critteros&bg_color=011627&color=7edbc9&line=c792ea&point=ffea95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Critteros&theme=nightowl&layout=compact" style="width: 70%;" alt="Critteros's WakaTime stats">
+</p>
