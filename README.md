@@ -117,8 +117,8 @@
 </p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Critteros&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="200px" alt="Critteros's Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Critteros&theme=nightowl&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook" height="200px" alt="Critteros's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=Critteros&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="180px" alt="Critteros's Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Critteros&theme=nightowl&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook" height="180px" alt="Critteros's Top Languages">
 </div>
 
 
