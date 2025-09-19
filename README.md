@@ -1,5 +1,5 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Critteros.Critteros"> -->
-<img align="right" src="https://visitcount.itsvg.in/api?id=Critteros&label=Profile%20Views&color=12&icon=5&pretty=true">
+
 
 [![wakatime](https://wakatime.com/badge/user/9ee7764e-0bfd-49ec-8ea8-4b7c458ba670.svg)](https://wakatime.com/@9ee7764e-0bfd-49ec-8ea8-4b7c458ba670)
                 
@@ -10,10 +10,10 @@
 </h5>
 <div align="center">
     <p>Nice to meet you, I'm Szymon, fullstack web application developer from Poland</p>
-    <p>🎓 I am currently studying for my master's degree at AGH University of Science and Technology </p>
+    <p>🎓 I finished Applied Computer Science at AGH University of Science and Technology </p>
+    <p>📜 I'm awaiting my master's thesis defense on the Design and Implementation of an Identity as a Service (IDaaS) Platform in a SaaS Model</p>
     <p>📜 I completed my engineering studies in Applied Computer Science, with my thesis focusing on the use of iPXE to streamline operating system installations and host configurations</p>
     <p>💻 Programming is my passion; I enjoy creating applications and continuously learning more about the field</p>
-    <p>🌱 I am currently expanding my skills into both mobile app development with <img style="vertical-align:text-bottom" src="https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react" alt="React Native" /> and desktop app development with <img style="vertical-align:text-bottom" src="https://img.shields.io/badge/-Tauri-black?style=flat-square&logo=tauri"/></p>
     <p>📫 How to reach me: <a href="mailto: contact@critteros.dev">contact@critteros.dev</a></p>
 </div>
 
@@ -35,7 +35,7 @@
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 
 ## 👨‍💻 Featured Repositories
 
@@ -64,17 +64,6 @@
     <a href="https://github.com/Critteros/speedtest-website">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=speedtest-website&theme=nightowl&show_owner=false" alt="speedtest-website" />
     </a>
-</div>
-
-## 🚧⏳ Work in progress projects
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <a href="https://github.com/Critteros/Drive">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Drive&theme=nightowl&show_owner=false" alt="Drive">
-    </a>
-    <a href="https://github.com/Critteros/Chat-UI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Chat-UI&theme=nightowl&show_owner=false" alt="Chat-UI">
-    </a>       
 </div>
 
 ## 🏆🤝 Featured Collaboration Projects
