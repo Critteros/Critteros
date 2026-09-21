@@ -9,12 +9,12 @@
   <code><a href="https://www.linkedin.com/in/szymon-kozio%C5%82/" title="LinkedIn Profile"><img style="vertical-align:text-bottom" width="25" src="assets/linkedin.svg">LinkedIn</a></code>
 </h5>
 <div align="center">
-    <p>Nice to meet you, I'm Szymon, fullstack web application developer from Poland</p>
-    <p>🎓 I finished Applied Computer Science at AGH University of Science and Technology </p>
-    <p>📜 I'm awaiting my master's thesis defense on the Design and Implementation of an Identity as a Service (IDaaS) Platform in a SaaS Model</p>
-    <p>📜 I completed my engineering studies in Applied Computer Science, with my thesis focusing on the use of iPXE to streamline operating system installations and host configurations</p>
-    <p>💻 Programming is my passion; I enjoy creating applications and continuously learning more about the field</p>
-    <p>📫 How to reach me: <a href="mailto: contact@critteros.dev">contact@critteros.dev</a></p>
+    <p>Nice to meet you, I'm Szymon, software engineer from Poland</p>
+    <p>Currently I work as a Software Engineer at <a href="https://swmansion.com">Software Mansion</a></p>
+    <p>I hold a Master's degree in Applied Computer Science from AGH University of Science and Technology</p>
+    <p>My master's thesis covered the Design and Implementation of an Identity as a Service (IDaaS) Platform in a SaaS Model</p>
+    <p>I completed my engineering studies in Applied Computer Science, with my thesis focusing on the use of iPXE to streamline operating system installations and host configurations</p>
+    <p>How to reach me: <a href="mailto: contact@critteros.dev">contact@critteros.dev</a></p>
 </div>
 
 ## 💻 Use to Code
@@ -41,64 +41,64 @@
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
     <a href="https://github.com/Critteros/Hydra">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Hydra&theme=nightowl&show_owner=false" alt="Hydra">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Critteros&repo=Hydra&theme=nightowl&show_owner=false" alt="Hydra">
     </a>
     <a href="https://github.com/Critteros/Engineering-Thesis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Engineering-Thesis&theme=nightowl&show_owner=false" alt="Engineering-Thesis">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Critteros&repo=Engineering-Thesis&theme=nightowl&show_owner=false" alt="Engineering-Thesis">
     </a>
     <a href="https://github.com/Critteros/MC-Clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=MC-Clone&theme=nightowl&show_owner=false" alt="MC-Clone" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Critteros&repo=MC-Clone&theme=nightowl&show_owner=false" alt="MC-Clone" />
     </a>
     <a href="https://github.com/Critteros/Particle-Simulator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Particle-Simulator&theme=nightowl&show_owner=false" alt="Particle-Simulator" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Critteros&repo=Particle-Simulator&theme=nightowl&show_owner=false" alt="Particle-Simulator" />
     </a>
     <a href="https://github.com/Critteros/Hotel-Manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Hotel-Manager&theme=nightowl&show_owner=false" alt="Hotel-Manager" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Critteros&repo=Hotel-Manager&theme=nightowl&show_owner=false" alt="Hotel-Manager" />
     </a>
     <a href="https://github.com/Critteros/ddns-sync">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=ddns-sync&theme=nightowl&show_owner=false" alt="ddns-sync" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Critteros&repo=ddns-sync&theme=nightowl&show_owner=false" alt="ddns-sync" />
     </a>
     <a href="https://github.com/Critteros/Digital-Cookbook">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Digital-Cookbook&theme=nightowl&show_owner=false" alt="Digital-Cookbook" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Critteros&repo=Digital-Cookbook&theme=nightowl&show_owner=false" alt="Digital-Cookbook" />
     </a>
     <a href="https://github.com/Critteros/speedtest-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=speedtest-website&theme=nightowl&show_owner=false" alt="speedtest-website" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Critteros&repo=speedtest-website&theme=nightowl&show_owner=false" alt="speedtest-website" />
     </a>
 </div>
 
-## 🏆🤝 Featured Collaboration Projects
+## 🤝 Featured Collaboration Projects
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
     <a href="https://github.com/Critteros/ImageBrowser">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=ImageBrowser&theme=nightowl&show_owner=false" alt="ImageBrowser" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Critteros&repo=ImageBrowser&theme=nightowl&show_owner=false" alt="ImageBrowser" />
     </a>
     <a href="https://github.com/Teamdur/DeviceManager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teamdur&repo=DeviceManager&theme=nightowl&show_owner=false" alt="DeviceManager" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Teamdur&repo=DeviceManager&theme=nightowl&show_owner=false" alt="DeviceManager" />
     </a>
     <a href="https://github.com/Mewelopers/barcode-mobile">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mewelopers&repo=barcode-mobile&theme=nightowl&show_owner=false" alt="barcode-mobile" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mewelopers&repo=barcode-mobile&theme=nightowl&show_owner=false" alt="barcode-mobile" />
     </a>
     <a href="https://github.com/Mewelopers/barcode-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mewelopers&repo=barcode-api&theme=nightowl&show_owner=false" alt="barcode-api" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mewelopers&repo=barcode-api&theme=nightowl&show_owner=false" alt="barcode-api" />
     </a>
     <a href="https://github.com/WFiIS-IS/PlannerMPI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WFiIS-IS&repo=PlannerMPI&theme=nightowl&show_owner=false" alt="PlannerMPI" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=WFiIS-IS&repo=PlannerMPI&theme=nightowl&show_owner=false" alt="PlannerMPI" />
     </a>
      <a href="https://github.com/WFiIS-IS/sem8-ao-document-recognition">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WFiIS-IS&repo=sem8-ao-document-recognition&theme=nightowl&show_owner=false" alt="sem8-ao-document-recognition" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=WFiIS-IS&repo=sem8-ao-document-recognition&theme=nightowl&show_owner=false" alt="sem8-ao-document-recognition" />
     </a>
     <a href="https://github.com/WFiIS-IS/Spring-OAuth2ResourceServerExample">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WFiIS-IS&repo=Spring-OAuth2ResourceServerExample&theme=nightowl&show_owner=false" alt="Spring-OAuth2ResourceServerExample" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=WFiIS-IS&repo=Spring-OAuth2ResourceServerExample&theme=nightowl&show_owner=false" alt="Spring-OAuth2ResourceServerExample" />
     </a>
     <a href="https://github.com/WFiIS-IS/Spring-OAuth2ClientExample">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WFiIS-IS&repo=Spring-OAuth2ClientExample&theme=nightowl&show_owner=false" alt="Spring-OAuth2ClientExample" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=WFiIS-IS&repo=Spring-OAuth2ClientExample&theme=nightowl&show_owner=false" alt="Spring-OAuth2ClientExample" />
     </a>
 </div>
 
 ## ⚡ Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Critteros&theme=nightowl&hide_border=true" alt="Critteros's Streak">
+    <img src="https://streak-stats.demolab.com/?user=Critteros&theme=nightowl&hide_border=true" alt="Critteros's Streak">
 </p>
 
 <p align="center">
@@ -106,13 +106,13 @@
 </p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-around; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Critteros&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="180px" alt="Critteros's Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Critteros&theme=nightowl&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook" height="180px" alt="Critteros's Top Languages">
+    <img src="https://github-stats-extended.vercel.app/api?username=Critteros&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="180px" alt="Critteros's Stats">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Critteros&theme=nightowl&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook" height="180px" alt="Critteros's Top Languages">
 </div>
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Critteros&bg_color=011627&color=7edbc9&line=c792ea&point=ffea95&area=true&hide_border=true)
+![Critteros's activity graph](https://activity-graph.vercel.app/graph?username=Critteros&bg_color=011627&color=7edbc9&line=c792ea&point=ffea95&area=true&hide_border=true)
 
 <p align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Critteros&theme=nightowl&layout=compact&langs_count=30" style="width: 70%;" alt="Critteros's WakaTime stats">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Critteros&theme=nightowl&layout=compact&langs_count=30" style="width: 70%;" alt="Critteros's WakaTime stats">
 </p>
